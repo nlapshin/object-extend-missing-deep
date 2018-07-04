@@ -1,0 +1,24 @@
+{
+  "name": "object-extend-missing-deep",
+  "version": "1.0.0",
+  "description": "Object extend only new keys",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlapshin/object-extend-missing-deep.git"
+  },
+  "author": "nlapshin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlapshin/object-extend-missing-deep/issues"
+  },
+  "homepage": "https://github.com/nlapshin/object-extend-missing-deep#readme"
+}
